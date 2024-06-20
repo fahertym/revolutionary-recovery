@@ -1,0 +1,3 @@
+# Stream/requirements.txt
+pillow
+moviepy
